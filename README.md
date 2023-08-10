@@ -15,10 +15,8 @@ Cooking Videos: Some recipes include instructional videos, providing visual guid
 
 User-Friendly Interface: Enjoy an intuitive and visually appealing app design that enhances your cooking journey.
 
-Whether you're looking to try new dishes, impress guests, or simply enjoy homemade meals, It is your go-to culinary companion. Download the app now and bring the joy of cooking to your fingertips!
-
 Installation:
-To get started with Forkify, follow these steps:
+To get started with Recipe BOOK, follow these steps:
 
 Clone this repository to your local machine.
 Install the required dependencies using npm: npm install
